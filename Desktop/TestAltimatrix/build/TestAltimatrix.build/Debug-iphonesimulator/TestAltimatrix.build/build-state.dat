@@ -1,0 +1,795 @@
+TTestAltimatrix
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix normal i386
+cLd /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix normal x86_64
+cCreateUniversalBinary /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix normal i386\ x86_64
+cCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib
+cCopyStringsFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings TestAltimatrix/en.lproj/InfoPlist.strings
+cCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib
+cCompileStoryboard /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard
+cCpResource TestAltimatrix/sample.png build/Debug-iphonesimulator/TestAltimatrix.app/sample.png
+cCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib
+cCompileAssetCatalog /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Images.xcassets
+cProcessInfoPlistFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist
+cGenerateDSYMFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix
+cTouch /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+c000000005472F29100000000000007A5
+t1416819345
+s1957
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard
+c00000000547EFFB00000000000002CCF
+t1417609136
+s11471
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+c00000000547F00620000000000000E3F
+t1417609314
+s3647
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib
+c0000000054730C660000000000000502
+t1416825958
+s1282
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/Images.xcassets
+c000000005472F2910000000000000088
+t1416819345
+s136
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+c000000005478C1610000000000000F65
+t1417199969
+s3941
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib
+c000000005472F62000000000000004FF
+t1416820256
+s1279
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+c00000000547EF93200000000000000BD
+t1417607474
+s189
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib
+c00000000547EF74F000000000000100A
+t1417606991
+s4106
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist
+c0000000054734E6D000000000000046A
+t1416842861
+s1130
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch
+c000000005472F2910000000000000158
+t1416819345
+s344
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+c0000000054735B7E00000000000000AF
+t1416846206
+s175
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/en.lproj/InfoPlist.strings
+c000000005472F291000000000000002D
+t1416819345
+s45
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m
+c000000005472F291000000000000011F
+t1416819345
+s287
+
+N/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/sample.png
+c00000000547EBCE9000000000000AAC5
+t1417592041
+s43717
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app
+t1417609332
+s374
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM
+t2
+s0
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Base.lproj/Main.storyboardc
+t1417609332
+s238
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/DetailViewController.nib
+t1417609331
+s136
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist
+t1417609332
+s771
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/MainViewController.nib
+t1417609331
+s136
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/PkgInfo
+t1417609332
+s8
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TableViewCell.nib
+t1417609331
+s136
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix
+t1417609331
+s123272
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings
+t1417609331
+s42
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/sample.png
+t1417609331
+s43717
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o
+t1417609331
+s62400
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o
+t1417609331
+s77136
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o
+t1417609331
+s75668
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o
+t1417609331
+s46172
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix
+t1417609331
+s55616
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix.LinkFileList
+c00000000547F00730000000000000377
+t1417609331
+s887
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o
+t1417609331
+s7356
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o
+t1417609331
+s3560
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o
+t1417609331
+s68620
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o
+t1417609331
+s88124
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o
+t1417609331
+s82080
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o
+t1417609331
+s47692
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix
+t1417609331
+s61832
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix.LinkFileList
+c00000000547F00730000000000000383
+t1417609331
+s899
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o
+t1417609331
+s8540
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o
+t1417609331
+s3788
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_dependencies.txt
+t1417609331
+s160
+
+N/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_generated_info.plist
+t1417609331
+s181
+
+N/var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch
+t1417609331
+s122076
+
+N/var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch
+t1417609331
+s122948
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+r0
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+r0
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+r0
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+r0
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+r0
+
+CBuild AST from /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies881023f3372fba41^6ac13bf3372fba41^---0#1#1#--18"Check dependencies36"E50DC8F1-6D63-415C-ADB2-24F45DAFD6F0-
+
+CCompileAssetCatalog /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Images.xcassets
+s439302131.685683
+e439302131.711137
+r1
+xCompileAssetCatalog
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CompileAssetCatalog build/Debug-iphonesimulator/TestAltimatrix.app TestAltimatrix/Images.xcassets97"CompileAssetCatalog build/Debug-iphonesimulator/TestAltimatrix.app TestAltimatrix/Images.xcassets209caff3372fba41^1a4db6f3372fba41^-190"/* com.apple.actool.compilation-results *//Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@82"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/Images.xcassets/0000000000000000^1167"CompileAssetCatalog build/Debug-iphonesimulator/TestAltimatrix.app TestAltimatrix/Images.xcassets    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 6.0 --target-device ipad --compress-pngs --compile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Images.xcassets36"64794A4F-B2A6-487F-B737-5231691A399D-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.292393
+e439302131.490545
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m209"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o TestAltimatrix/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera9f54af3372fba41^23d77df3372fba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m0000000000000000^3783"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o TestAltimatrix/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o36"2DCCEE99-5EB0-46DC-B24A-B002AA65127C-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.291603
+e439302131.519269
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m227"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o TestAltimatrix/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileradc24af3372fba41^56ef84f3372fba41^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m0000000000000000^3837"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o TestAltimatrix/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o36"0EE0740F-CBC6-43CA-9A18-81F5155784D8-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.295347
+e439302131.528857
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m223"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o TestAltimatrix/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler16fb4bf3372fba41^5a6887f3372fba41^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/MainViewController.m0000000000000000^3825"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o TestAltimatrix/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o36"B67E3B77-2645-4E98-90CC-10A7102430F0-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.290928
+e439302131.482931
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m213"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o TestAltimatrix/TableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler14984af3372fba41^c2a17bf3372fba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m0000000000000000^3795"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o TestAltimatrix/TableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o36"2C19160A-CB33-423C-A53E-B7A0956CE8D9-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.294786
+e439302131.403815
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m209"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o TestAltimatrix/UserDetails.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25934bf3372fba41^396067f3372fba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/UserDetails.m0000000000000000^3783"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o TestAltimatrix/UserDetails.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o36"8E99FC4B-5E49-4E8F-A1E4-A4D26DE6ADE0-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.295605
+e439302131.392700
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m195"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o TestAltimatrix/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler81984cf3372fba41^2f8864f3372fba41^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/main.m0000000000000000^3741"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o TestAltimatrix/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o36"289867E8-8749-4014-9041-9CD3E9BCA999-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.395127
+e439302131.530574
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m213"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o TestAltimatrix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere04765f3372fba41^aad587f3372fba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m0000000000000000^3797"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o TestAltimatrix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/AppDelegate.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o36"BF3378A0-B11F-4C2C-9514-A56ADFDAF4C5-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.295957
+e439302131.516380
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m231"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o TestAltimatrix/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2db4bf3372fba41^ad3184f3372fba41^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m0000000000000000^3851"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o TestAltimatrix/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o36"04AA2B14-8F76-4DCC-9BBF-2B54A842985E-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.482300
+e439302131.593808
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.h
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.m227"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o TestAltimatrix/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler21947bf3372fba41^ff0398f3372fba41^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/MainViewController.m0000000000000000^3839"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o TestAltimatrix/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o36"E5A6E93A-C949-4115-8BAA-8271A53AE559-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.297301
+e439302131.485676
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m217"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o TestAltimatrix/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler16354cf3372fba41^fc557cf3372fba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m0000000000000000^3809"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o TestAltimatrix/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o36"926E0BC1-E576-4A96-8164-1D7E95DC2F27-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.405361
+e439302131.481821
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/UserDetails.m213"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o TestAltimatrix/UserDetails.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd6e267f3372fba41^14597bf3372fba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/UserDetails.m0000000000000000^3797"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o TestAltimatrix/UserDetails.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/UserDetails.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o36"CE619D32-2BDA-43F3-A526-CC677B3B2898-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.484423
+e439302131.538473
+r1
+xCompileC
+xbuild/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/main.m199"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o TestAltimatrix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere2217cf3372fba41^67f289f3372fba41^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/main.m0000000000000000^3755"CompileC build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o TestAltimatrix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -include /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch -MMD -MT dependencies -MF /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.dia -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/main.m -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o36"F1E48F06-5E12-480A-B57F-E3553255B038-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileStoryboard /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard
+s439302131.682481
+e439302132.286225
+r1
+xCompileStoryboard
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard TestAltimatrix/Base.lproj/Main.storyboard59"CompileStoryboard TestAltimatrix/Base.lproj/Main.storyboard57ceaef3372fba41^5a4749f4372fba41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard0000000000000000^864"CompileStoryboard TestAltimatrix/Base.lproj/Main.storyboard    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Base.lproj/Main.storyboardc /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/Base.lproj/Main.storyboard36"942D029C-944E-46BE-B73C-BF12CE23FEB2-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib
+s439302131.680161
+e439302131.734764
+r1
+xCompileXIB
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib50"CompileXIB TestAltimatrix/DetailViewController.xib2b32aef3372fba41^e319bcf3372fba41^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib0000000000000000^800"CompileXIB TestAltimatrix/DetailViewController.xib    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/DetailViewController.nib /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/DetailViewController.xib36"72C7697C-2100-4178-B64E-7DEA72F13123-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib
+s439302131.683399
+e439302131.737950
+r1
+xCompileXIB
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib48"CompileXIB TestAltimatrix/MainViewController.xibab04aff3372fba41^afeabcf3372fba41^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib0000000000000000^794"CompileXIB TestAltimatrix/MainViewController.xib    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/MainViewController.nib /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/MainViewController.xib36"5082E5CB-88A9-41EA-A3E6-5CB14EF12670-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCompileXIB /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib
+s439302131.678731
+e439302131.856009
+r1
+xCompileXIB
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib43"CompileXIB TestAltimatrix/TableViewCell.xib59daadf3372fba41^9f22dbf3372fba41^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib0000000000000000^779"CompileXIB TestAltimatrix/TableViewCell.xib    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TableViewCell.nib /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TableViewCell.xib36"E444A696-4249-4C3B-B2CF-F474D016391C-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCopyStringsFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings TestAltimatrix/en.lproj/InfoPlist.strings
+s439302131.679927
+e439302131.688606
+r1
+xCopyStringsFile
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings
+xTestAltimatrix/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy TestAltimatrix/en.lproj/InfoPlist.strings131"CopyStringsFile build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings TestAltimatrix/en.lproj/InfoPlist.strings2865aef3372fba41^aa49b0f3372fba41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/en.lproj/InfoPlist.strings0000000000000000^612"CopyStringsFile build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj/InfoPlist.strings TestAltimatrix/en.lproj/InfoPlist.strings    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/en.lproj -- TestAltimatrix/en.lproj/InfoPlist.strings36"55F5CC52-0344-4A78-BBBF-30AC783FCDEC-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCpResource TestAltimatrix/sample.png build/Debug-iphonesimulator/TestAltimatrix.app/sample.png
+s439302131.683212
+e439302131.687561
+r1
+xCpResource
+xTestAltimatrix/sample.png
+xbuild/Debug-iphonesimulator/TestAltimatrix.app/sample.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/TestAltimatrix.app/sample.png94"CpResource TestAltimatrix/sample.png build/Debug-iphonesimulator/TestAltimatrix.app/sample.png8923aff3372fba41^2906b0f3372fba41^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/itvepg/Google%20Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/sample.png00343042ddffdf42^612"CpResource TestAltimatrix/sample.png build/Debug-iphonesimulator/TestAltimatrix.app/sample.png    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/sample.png /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app36"51BE7B73-9B15-408C-B060-7810565EF3A4-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CCreateUniversalBinary /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix normal i386\ x86_64
+s439302131.653082
+e439302131.678212
+r1
+xCreateUniversalBinary
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Create universal binary /Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix103"CreateUniversalBinary build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix normal i386\ x86_64ea3fa7f3372fba41^49a0adf3372fba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/itvepg/Google%20Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix00343042ddffdf42^865"CreateUniversalBinary build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix normal i386\ x86_64    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix -output /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix36"FD7EEBDF-8A53-4227-B226-EE70A6F4C421-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CGenerateDSYMFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix
+s439302132.293029
+e439302132.330113
+r1
+xGenerateDSYMFile
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM130"GenerateDSYMFile build/Debug-iphonesimulator/TestAltimatrix.app.dSYM build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix34104bf4372fba41^a98354f4372fba41^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/itvepg/Google%20Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM00343042ddffdf42^680"GenerateDSYMFile build/Debug-iphonesimulator/TestAltimatrix.app.dSYM build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/TestAltimatrix -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app.dSYM36"EDCCDE75-4051-422C-A6BB-8D72105A0F52-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CLd /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix normal i386
+s439302131.594752
+e439302131.652056
+r1
+xLd
+x/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix
+xnormal
+xi386
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/DetailViewController.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TableViewCell.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/AppDelegate.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/UserDetails.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/MainViewController.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix119"Ld build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix normal i386645998f3372fba41^4aeca6f3372fba41^---0#0#1#--1506"Ld build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix normal i386    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -filelist /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix_dependency_info.dat -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/i386/TestAltimatrix36"D33497B2-06AA-421A-8C7B-27E3CF17E0EC-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CLd /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix normal x86_64
+s439302131.595191
+e439302131.647406
+r1
+xLd
+x/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix
+xnormal
+xx86_64
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/DetailViewController.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TableViewCell.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/UserDetails.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/MainViewController.o
+d/Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/itvepg/Google Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix123"Ld build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix normal x86_64a96c98f3372fba41^cbbca5f3372fba41^---0#0#1#--1518"Ld build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix normal x86_64    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator -filelist /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix_dependency_info.dat -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/Objects-normal/x86_64/TestAltimatrix36"4FA1B16C-3E5B-4A75-A207-488AAE30724D-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CProcessInfoPlistFile /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist
+s439302132.286783
+e439302132.292616
+r1
+xProcessInfoPlistFile
+x/Users/itvepg/Google Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist
+x/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist119"ProcessInfoPlistFile build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist TestAltimatrix/TestAltimatrix-Info.plist5b7d49f4372fba41^cde94af4372fba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist0000000000000000^925"ProcessInfoPlistFile build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist TestAltimatrix/TestAltimatrix-Info.plist    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Info.plist -genpkginfo /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/assetcatalog_generated_info.plist -o /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app/Info.plist36"2872380C-9DB5-4A19-9989-30C6BE6D39B6-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CProcessPCH /Users/itvepg/Library/Developer/Xcode/DerivedData/TestAltimatrix-fshwdwexfmyignazrlwvzrtbqlps/Index/PrecompiledHeaders/TestAltimatrix-Prefix-ckxvipqksrchshcjbnjcqoxiujow_ast/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/itvepg/Library/Developer/Xcode/DerivedData/TestAltimatrix-fshwdwexfmyignazrlwvzrtbqlps/Index/PrecompiledHeaders/TestAltimatrix-Prefix-gnplmkxqeoynqsdkpbznoyjvpiem_ast/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.234448
+e439302131.286900
+r1
+xProcessPCH
+x/var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch
+xTestAltimatrix/TestAltimatrix-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile TestAltimatrix/TestAltimatrix-Prefix.pch318"ProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25223cf3372fba41^de7249f3372fba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch0000000000000000^3859"ProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/i386 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.d -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch -o /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-aldqvawcghtvbkdvgdclmisdhnoq/TestAltimatrix-Prefix.pch.pch36"9E2A1275-EB43-4E24-868A-90C40BC68481-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s439302131.234839
+e439302131.288647
+r1
+xProcessPCH
+x/var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch
+xTestAltimatrix/TestAltimatrix-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/itvepg/Google Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile TestAltimatrix/TestAltimatrix-Prefix.pch320"ProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8f383cf3372fba41^fda149f3372fba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/itvepg/Google%20Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch0000000000000000^3865"ProcessPCH /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch TestAltimatrix/TestAltimatrix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/itvepg/Google Drive/TestAltimatrix"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/itvepg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-generated-files.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-own-target-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-all-target-headers.hmap -iquote /Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/TestAltimatrix-project-headers.hmap -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources/x86_64 -I/Users/itvepg/Google\ Drive/TestAltimatrix/build/TestAltimatrix.build/Debug-iphonesimulator/TestAltimatrix.build/DerivedSources -F/Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.d -c /Users/itvepg/Google\ Drive/TestAltimatrix/TestAltimatrix/TestAltimatrix-Prefix.pch -o /var/folders/9r/x3fq0ftd6cj8gf36djrnml880000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestAltimatrix-Prefix-eryymyxfvpcjryawdfuxmcxxkiog/TestAltimatrix-Prefix.pch.pch36"6CF6CCBC-9A30-4947-9B16-8B3D9B16A920-
+b89317A21-0C2E-423D-B971-E18A4521695B
+
+CTouch /Users/itvepg/Google\ Drive/TestAltimatrix/build/Debug-iphonesimulator/TestAltimatrix.app
+r0
+
